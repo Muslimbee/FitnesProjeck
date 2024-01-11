@@ -1,0 +1,15 @@
+@import './_Navigation//_index.css';
+@import './_Main/_GetFilAndFeelGreat//_index.css';
+@import './_Main/_OurClasses//_index.css';
+@import './_Main/_PersonalTraining//_index.css';
+@import './_Main/_GroupTraining//_index.css';
+@import './_Main/_GetYourFirst//_index.css';
+@import './_Main/_OurTrainers//_index.css';
+@import './_Main/_HowToStart//_index.css';
+@import './_Main/_PricingPlans//_index.css';
+@import './_Main/_LatestArticles//_index.css';
+@import './_Main/_LetsGetStarted//_index.css';
+@import './_Main//_Footer//_index.css';
+*{
+    background: #191919;
+}
